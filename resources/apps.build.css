@@ -1,0 +1,158 @@
+@media only screen and (min-width: 735px) and (max-width: 1068px) {
+  .section-apps .grid-item-journaling-app .blockquote-content {
+    grid-column-end: 7;
+  }
+}
+@media only screen and (min-width: 1069px) {
+  .section-apps .grid-item-journaling-app .tile-blockquote {
+    max-width: 400px;
+  }
+}
+@media only screen and (min-width: 1069px) and (max-width: 1249px) {
+  .section-apps .grid-item-journaling-app .tile-blockquote {
+    max-width: 370px;
+  }
+}
+@media only screen and (min-width: 735px) and (max-width: 1068px) {
+  .section-apps .grid-item-journaling-app .tile-blockquote {
+    max-width: 310px;
+  }
+}
+@media only screen and (min-width: 735px) and (max-width: 1068px) {
+  .section-apps .grid-item-journaling-app .asset-content {
+    grid-column-start: 7;
+  }
+}
+
+.section-apps .glass-hardware.portrait-hardware3:before {
+  background-image: none;
+}
+
+.section-apps .grid .tile {
+  min-height: 500px;
+}
+
+.section-apps .grid-item-journaling-app glass-screen {
+  width: 422px;
+  height: 400px;
+  background-size: 240px 400px;
+  background-repeat: no-repeat;
+  background-image: url(journaling_app_screen__e9aa88o2bm6a_large.jpg);
+}
+@media (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi),
+  only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx) {
+  .section-apps .grid-item-journaling-app glass-screen {
+    background-image: url(journaling_app_screen__e9aa88o2bm6a_large_2x.jpg);
+  }
+}
+@media only screen and (max-width: 1068px) {
+  .section-apps .grid-item-journaling-app glass-screen {
+    width: 266px;
+    height: 576px;
+    background-size: 266px 576px;
+    background-repeat: no-repeat;
+    background-image: url(journaling_app_screen__e9aa88o2bm6a_medium.jpg);
+  }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps .grid-item-journaling-app glass-screen {
+    background-image: url(journaling_app_screen__e9aa88o2bm6a_medium_2x.jpg);
+  }
+}
+@media only screen and (max-width: 734px) {
+  .section-apps .grid-item-journaling-app glass-screen {
+    width: 254px;
+    height: 552px;
+    background-size: 254px 552px;
+    background-repeat: no-repeat;
+    background-image: url(journaling_app_screen__e9aa88o2bm6a_small.jpg);
+  }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  .section-apps .grid-item-journaling-app glass-screen {
+    background-image: url(journaling_app_screen__e9aa88o2bm6a_small_2x.jpg);
+  }
+}
+.section-apps .grid-item-journaling-app .glass-hardware {
+  height: 500px;
+  margin-top: 4px;
+}
+@media only screen and (max-width: 1068px) {
+  .section-apps .grid-item-journaling-app .glass-hardware {
+    margin-top: 0px;
+    height: 450px;
+  }
+}
+@media only screen and (max-width: 374px) {
+  .section-apps .grid-item-journaling-app .glass-hardware {
+    margin-left: -14px;
+  }
+}
+@media only screen and (max-width: 734px) {
+  .section-apps .grid-item-privacy .tile {
+    min-height: 634px;
+    min-height: 680px;
+  }
+}
+.section-apps .grid-item-privacy .tile-content {
+  background: linear-gradient(135deg, #1d1d1f, #767676);
+}
+.section-apps .grid-item-privacy .tile-body {
+  padding-top: 0px;
+}
+.section-apps .grid-item-privacy .tile-button {
+  color: #000;
+}
+.section-apps .grid-item-suggestions glass-screen {
+  width: 234px;
+  height: 506px;
+  background-size: 234px 506px;
+  background-repeat: no-repeat;
+  background-image: url(suggestions_screen__ffiqacbyaday_large.jpg);
+}
+@media (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi),
+  only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx) {
+  .section-apps .grid-item-suggestions glass-screen {
+    background-image: url(suggestions_screen__ffiqacbyaday_large_2x.jpg);
+  }
+}
+@media only screen and (max-width: 1068px) {
+  .section-apps .grid-item-suggestions glass-screen {
+    width: 174px;
+    height: 378px;
+    background-size: 174px 378px;
+    background-repeat: no-repeat;
+    background-image: url(suggestions_screen__ffiqacbyaday_medium.jpg);
+  }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps .grid-item-suggestions glass-screen {
+    background-image: url(suggestions_screen__ffiqacbyaday_medium_2x.jpg);
+  }
+}
+@media only screen and (max-width: 734px) {
+  .section-apps .grid-item-suggestions glass-screen {
+    width: 196px;
+    height: 424px;
+    background-size: 196px 424px;
+    background-repeat: no-repeat;
+    background-image: url(suggestions_screen__ffiqacbyaday_small.jpg);
+  }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  .section-apps .grid-item-suggestions glass-screen {
+    background-image: url(suggestions_screen__ffiqacbyaday_small_2x.jpg);
+  }
+}

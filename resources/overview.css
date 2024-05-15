@@ -1,0 +1,74 @@
+.section-games .grid-wrapper {
+  background-color: var(--global-section-background-color);
+}
+
+.section-games .grid-item-journaling-app glass-screen {
+  background-image: url(journaling_app_screen__e9aa88o2bm6a_large.jpg);
+}
+@media (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi),
+  only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx) {
+  .section-games .grid-item-journaling-app glass-screen {
+    background-image: url(journaling_app_screen__e9aa88o2bm6a_large_2x.jpg);
+  }
+}
+@media only screen and (max-width: 1068px) {
+  .section-games .grid-item-journaling-app glass-screen {
+    background-image: url(journaling_app_screen__e9aa88o2bm6a_medium.jpg);
+  }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-games .grid-item-journaling-app glass-screen {
+    background-image: url(journaling_app_screen__e9aa88o2bm6a_medium_2x.jpg);
+  }
+}
+@media only screen and (max-width: 734px) {
+  .section-games .grid-item-journaling-app glass-screen {
+    background-image: url(journaling_app_screen__e9aa88o2bm6a_small.jpg);
+  }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  .section-games .grid-item-journaling-app glass-screen {
+    background-image: url(journaling_app_screen__e9aa88o2bm6a_small_2x.jpg);
+  }
+}
+.section-games .grid-item-suggestions glass-screen {
+  background-image: url(suggestions_screen__ffiqacbyaday_large.jpg);
+}
+@media (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi),
+  only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx) {
+  .section-games .grid-item-suggestions glass-screen {
+    background-image: url(suggestions_screen__ffiqacbyaday_large_2x.jpg);
+  }
+}
+@media only screen and (max-width: 1068px) {
+  .section-games .grid-item-suggestions glass-screen {
+    background-image: url(suggestions_screen__ffiqacbyaday_medium.jpg);
+  }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-games .grid-item-suggestions glass-screen {
+    background-image: url(suggestions_screen__ffiqacbyaday_medium_2x.jpg);
+  }
+}
+@media only screen and (max-width: 734px) {
+  .section-games .grid-item-suggestions glass-screen {
+    background-image: url(suggestions_screen__ffiqacbyaday_small.jpg);
+  }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  .section-games .grid-item-suggestions glass-screen {
+    background-image: url(suggestions_screen__ffiqacbyaday_small_2x.jpg);
+  }
+}
